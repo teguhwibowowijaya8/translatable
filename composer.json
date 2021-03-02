@@ -51,7 +51,7 @@
     },
     "extra": {
         "laravel": {
-            "providers": [
+            "dont-discover": [
                 "Brackets\\Translatable\\TranslatableServiceProvider"
             ]
         },
